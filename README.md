@@ -3,4 +3,5 @@ My research focus is in developing artificial intelligence to identify novel pat
 Additional research interests include anomaly detection in time-series data and methods for detection of communities in biological networks.  
 I have industry experience in the development of machine learning methods, data warehouses and ETL tools.
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=0zwvilgAAAAJ)
+[LinkedIn](https://www.linkedin.com/in/suhassrinivasan/)
+[Google Scholar](https://scholar.google.com/citations?user=0zwvilgAAAAJ)
